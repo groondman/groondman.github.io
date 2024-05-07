@@ -71,11 +71,11 @@ acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
-discord_id: # your discord id (18-digit unique numerical identifier)
+discord_id: groond # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
+github_username: groondman # your GitHub user name
+gitlab_username: groondman # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
@@ -127,8 +127,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog # blog_name will be displayed in your blog page
+blog_description: currently a work in progress
 permalink: /blog/:year/:title/
 
 # Pagination
