@@ -3,10 +3,11 @@ layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: true
-nav_order: 7
+nav: false
+nav_order: -1
 
 profiles:
+  #What team do I have? this is also going into the archive.
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right

@@ -4,7 +4,7 @@ permalink: /courses/
 title: school
 description: Materials for current and past courses.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 Maybe make future plans on turning this into a blog-style format to keep track of some info on my past courses in UofT.
