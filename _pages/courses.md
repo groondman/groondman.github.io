@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /courses/
+title: school
+description: Materials for current and past courses.
+nav: true
+nav_order: 6
+---
+
+Maybe make future plans on turning this into a blog-style format to keep track of some info on my past courses in UofT.
+If so, I'll make it similar to the `blog` or the `projects` page.
