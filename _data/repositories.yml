@@ -1,6 +1,9 @@
+#this is for the "repositories github page"
+
 github_users:
-  - torvalds
-  - alshedivat
+  - groondman
+  # - torvalds
+  # - alshedivat
 
 github_repos:
   - alshedivat/al-folio
