@@ -2,8 +2,7 @@
 
 github_users:
   - groondman
-  # - torvalds
-  # - alshedivat
+  - groond-h
 
 github_repos:
   - alshedivat/al-folio
