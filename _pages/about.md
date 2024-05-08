@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: me #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   #add socials here instead of address
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>UofT ECE 2T7 + PEY</p>
     <p>Toronto, ON</p>
 
 #news: true # includes a list of news items
