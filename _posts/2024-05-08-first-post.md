@@ -5,6 +5,7 @@ date: 2024-05-08 12:24:00
 description: figuring out what to do with the blog
 tags: planning
 categories: posts
+featured: true
 ---
 
 #### HELLO!
