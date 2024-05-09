@@ -1,11 +1,13 @@
 ---
-layout: page
-permalink: /repositories/
-title: repositories
-description: work in progress. Wondering if I'm going to keep this section until i make more github contributions
-nav: true
-nav_order: 4
+# layout: page
+# permalink: /repositories/
+# title: repositories
+# description: work in progress. Wondering if I'm going to keep this section until i make more github contributions
+# nav: true
+# nav_order: 4
 ---
+<!--
+also don't have much for this, so i'll likely just have it on standby
 
 ## GitHub users
 
@@ -44,4 +46,5 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} 
+-->

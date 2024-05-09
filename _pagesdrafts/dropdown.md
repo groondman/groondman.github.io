@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: submenus
 nav: true
@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
----
+--- -->
+<!--
+temporary, could use later tbh but don't have a purpose
+-->
