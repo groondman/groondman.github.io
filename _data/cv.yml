@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gordon Huang
     - name: Date of Birth
-      value: 14th March 1879
+      value: February 21st 2005
     - name: Languages
-      value: English, German
+      value: English, French, Cantonese (kinda)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's of Applied Science
+      institution: University of Toronto, Ontario, Canada
+      year: 2023 - ongoing
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
