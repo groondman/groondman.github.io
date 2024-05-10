@@ -30,8 +30,8 @@ Here's an updated working list:
 Some notes:
 - since i forked a template off of github, going into this i basically had NO clue what i was doing. So figuring out how the tags and categories were featured in the blog's main page took forever! Thankfully someone asked this question to the people making the template, so if i checked there first i would've probably saved one or two hours of my life finding out how this stuff worked.
 - I removed most of the default pages that the template provided. Here's what I removed:
-  - **publications** Since I'm not a PhD student or some kind of fancy student, I don't have any use for this.
-  - **cv** This one's actually a work in progress. I currently have this in a lower end of the priority list and I don't know when I'll get this done, so I'll hide this page for the time being.
-  - **dropdown** There was a dropdown menu in the top navigation bar and I removed it. It was part of the template to show how you can add a dropdown, but otherwise it didn't contribute to my current page.
-  - **repositories** This one is just some kind of tracker to show off your Github stats. Fun fact: I do not have Github stats to show off. 
-  - **profiles** This page is used to show off a research team and its members' profiles. I'm not in a research team. This further supports my belief that this template is made for research students who need to advertise themselves.
+  - **publications** </br>Since I'm not a PhD student or some kind of fancy student, I don't have any use for this.
+  - **cv** </br>This one's actually a work in progress. I currently have this in a lower end of the priority list and I don't know when I'll get this done, so I'll hide this page for the time being.
+  - **dropdown** </br>There was a dropdown menu in the top navigation bar and I removed it. It was part of the template to show how you can add a dropdown, but otherwise it didn't contribute to my current page.
+  - **repositories** </br>This one is just some kind of tracker to show off your Github stats. Fun fact: I do not have Github stats to show off. 
+  - **profiles** </br>This page is used to show off a research team and its members' profiles. I'm not in a research team. This further supports my belief that this template is made for research students who need to advertise themselves.
