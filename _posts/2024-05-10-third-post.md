@@ -30,18 +30,18 @@ Updated working list:
 Here's a bit of a test on including some photos in the blog. Consider the current screenshots of the developing blog as a test on how I'll include images in the future.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/about.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/about.png" class="img-fluid rounded z-depth-1" zoomable = true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/blog.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/blog.png" class="img-fluid rounded z-depth-1" zoomable = true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/secondpost.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/secondpost.png" class="img-fluid rounded z-depth-1" zoomable = true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/projects.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/projects.png" class="img-fluid rounded z-depth-1" zoomable = true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/school.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-05-10-third-post/school.png" class="img-fluid rounded z-depth-1" zoomable = true %}
     </div>
 </div>
