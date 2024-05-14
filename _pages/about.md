@@ -6,12 +6,11 @@ subtitle: me #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: blaze.jpg
   image_circular: false # crops the image to make it circular
   #add socials here instead of address
   more_info: >
-    <p>UofT ECE 2T7 + PEY</p>
-    <p>Toronto, ON</p>
+    <p>Blaze.<br>He's a nice guy.</p>
 
 #news: true # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
