@@ -17,8 +17,8 @@ profile:
 #social: true # includes social icons at the bottom of the page
 ---
 
-hi!
-this is definitely still a work in progress but congrats for finding this early, i guess? 
+hi
+this is definitely still a work in progress! 
 there's only one single post (at the time of writing) but we'll see about how it goes as time passes. 
 
 Here's a [temporary link](https://groondman.github.io) that goes straight back to this page i guess.
